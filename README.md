@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tajikwizard
 - 👀 I’m interested in Software and Fintech
-- 🌱 I’m currently learning C# Asp.net MVC Ado.net
+- 🌱 I’m currently learning React Redux Next.js && C# Asp.net MVC Ado.net
 - 💞️ I’m looking to collaborate on Banking System Softwares
 - 📫 How to reach me abdulazizcodeshere@gmail.com
 
